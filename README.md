@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarinRosenovDimitrov
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java advanced
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java advanced
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail : jonjo@abv.bg
 
